@@ -32,7 +32,7 @@ A Python-based Speech-to-Image application that recognizes speech, translates it
   pip install speechrecognition translate requests pillow monsterapi
 - Clone the repository
 
-  git clone https://github.com/your-username/Speech-t
+  git clone https:https://github.com/yukj352/speechtoimage.git
 - Run the appliaction
   
   python speech_to_image.py
